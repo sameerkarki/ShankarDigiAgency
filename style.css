@@ -97,6 +97,9 @@ nav Section
         flex-direction: column;
         align-items: flex-start;
         justify-content: center;
+        position: sticky;
+    width: 100%;
+    z-index: 99999999;
     }
     
     .btn {
