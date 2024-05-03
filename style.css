@@ -23,9 +23,7 @@ nav Section
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    position: sticky;
-    width: 100%;
-    z-index: 99999999;
+
 }
 
 .brand-title {
