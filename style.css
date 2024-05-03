@@ -23,7 +23,7 @@ nav Section
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    position: fixed;
+    position: sticky;
     width: 100%;
 }
 
