@@ -25,6 +25,7 @@ nav Section
     padding: 10px;
     position: sticky;
     width: 100%;
+    z-index: 99999999;
 }
 
 .brand-title {
